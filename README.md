@@ -1,22 +1,22 @@
-### Lung Cancer Prediction based on provided parameters
+# Lung Cancer Prediction based on provided parameters
 
-#### Executive summary
+## Executive summary
 By using user data such as alcohol usage, cigaratte smoking and similar parameters we need to predict presence of lung cancer in new patient when given similar parameters
 
-#### Rationale
+## Rationale
 Cancer prediction is invaluable given today's rising cancer rates among people
 
-#### Research Question
+## Research Question
 Given a set of parameters will we be able predict presence of cancer of not
 
-#### Methodology
+## Methodology
 We are using multiple regression and other technics to construct models to predict this
 
-#### Results
+## Results
 Logistic regression works better than most other models with higher accuracy. 
 Users who present with higher alcohol consumption, swallowing difficult will needs more immediate attention.
 
-#### Next steps
+## Next steps
 We need to collect more data with additional parameters to distill these results even more. socio economic conditions, geographical information etc will help us construct more accurate models
 
 #### Outline of project
